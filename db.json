@@ -1,21 +1,21 @@
 {
   "data": [
-    { "id": 1, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 2, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 3, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 4, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 5, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 6, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 7, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 8, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 9, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 10, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 11, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 12, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 13, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 14, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 15, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"},
-    { "id": 16, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" },
-    { "id": 17, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" }
+   { "id": 1, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 2, "title": "Cat", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 3, "title": "Book", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 4, "title": "Jumper", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 5, "title": "Bag", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 22130, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 6, "title": "Laptop", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 7, "title": "Something", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 8, "title": "Air", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 9, "title": "Dirt", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 10, "title": "Gold", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 11, "title": "Shoes", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 12, "title": "Panda", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 12310, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 13, "title": "Dinosaur", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 14, "title": "Ferrari", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 15, "title": "Lambo", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true},
+    { "id": 16, "title": "Dacia", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 2021410, "isMercari": true, "isPoshmark": false, "isEbay": true },
+    { "id": 17, "title": "Mouse", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true }
   ]
 }
