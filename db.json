@@ -1,6 +1,6 @@
 {
   "data": [
-   { "id": 1, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
+   { "id": 1, "title": "Camera", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": true, "isEbay": true },
     { "id": 2, "title": "Cat", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
     { "id": 3, "title": "Book", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
     { "id": 4, "title": "Jumper", "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "price": 20, "isMercari": true, "isPoshmark": false, "isEbay": true },
