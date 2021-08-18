@@ -7,7 +7,7 @@
       "price": 20,
       "statuses":{
         "ebay": 1,
-        "poshmark": 3,
+        "poshmark": 7,
         "mercari": 6
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
@@ -20,7 +20,7 @@
       "statuses":{
         "ebay": 1,
         "poshmark": 3,
-        "mercari": 6
+        "mercari": 4
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
@@ -31,7 +31,7 @@
       "price": 20,
       "statuses":{
         "ebay": 1,
-        "poshmark": 3,
+        "poshmark": 2,
         "mercari": 6
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
@@ -42,7 +42,7 @@
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
       "statuses":{
-        "ebay": 1,
+        "ebay": 5,
         "poshmark": 3,
         "mercari": 6
       },
