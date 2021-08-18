@@ -161,9 +161,11 @@
       "title": "Ferrari",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 2,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 2,
+        "poshmark": 2,
+        "mercari": 1
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
