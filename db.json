@@ -5,9 +5,11 @@
       "title": "Camera",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 1,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -15,9 +17,11 @@
       "title": "Cat",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -25,9 +29,11 @@
       "title": "Book",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -35,9 +41,11 @@
       "title": "Jumper",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -45,9 +53,11 @@
       "title": "Bag",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 22130,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -55,9 +65,11 @@
       "title": "Laptop",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -65,9 +77,11 @@
       "title": "Something",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -75,9 +89,11 @@
       "title": "Air",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -85,9 +101,11 @@
       "title": "Dirt",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 1,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -95,9 +113,11 @@
       "title": "Gold",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -105,9 +125,11 @@
       "title": "Shoes",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -115,9 +137,11 @@
       "title": "Panda",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 12310,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -125,9 +149,11 @@
       "title": "Dinosaur",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -145,9 +171,11 @@
       "title": "Lambo",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -155,9 +183,11 @@
       "title": "Dacia",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 2021410,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
@@ -165,9 +195,11 @@
       "title": "Mouse",
       "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "price": 20,
-      "MercariStatus": 1,
-      "PoshmarkStatus": 2,
-      "EbayStatus": 1,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     }
   ]
