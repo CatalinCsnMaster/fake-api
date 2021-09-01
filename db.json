@@ -1,260 +1,217 @@
 {
-  data: [
+  "data": [
     {
-      id: 1,
-      title: "Something",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 7,
-        mercari: 6,
+      "id": 1,
+      "title": "Something",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 7,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-      quantity: 2,
-      customer: {
-        name: "Testing Test",
-        city: "Chicago",
-        state: "Chicago, I think?",
-        country: "USA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "quantity": 2,
+      "customer": {
+        "name": "Testing Test",
+        "city": "Chicago",
+        "state": "Chicago, I think?",
+        "country": "USA",
       },
-      dateSold: "12.2.2002",
-      crosslinked: "true",
+      "dateSold": "12.2.2002",
+      "crosslinked": "true",
     },
     {
-      id: 2,
-      title: "Cat",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 4,
+      "id": 2,
+      "title": "Cat",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 4
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 3,
-      title: "Book",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 2,
-        mercari: 6,
+      "id": 3,
+      "title": "Book",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 2,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 4,
-      title: "Jumper",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 5,
-        poshmark: 3,
-        mercari: 6,
+      "id": 4,
+      "title": "Jumper",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 5,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-      quantity: 2,
-      customer: {
-        name: "Testing Test",
-        city: "Chicago",
-        state: "Chicago, I think?",
-        country: "USA",
-      },
-      dateSold: "12.2.2002",
-      crosslinked: "true",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 5,
-      title: "Bag",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 22130,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 5,
+      "title": "Bag",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 22130,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 6,
-      title: "Laptop",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 6,
+      "title": "Laptop",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 7,
-      title: "Something",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 7,
+      "title": "Something",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 8,
-      title: "Air",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 8,
+      "title": "Air",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 9,
-      title: "Dirt",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 9,
+      "title": "Dirt",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 10,
-      title: "Gold",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 10,
+      "title": "Gold",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 11,
-      title: "Shoes",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 11,
+      "title": "Shoes",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 12,
-      title: "Panda",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 12310,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 12,
+      "title": "Panda",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 12310,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 13,
-      title: "Dinosaur",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 13,
+      "title": "Dinosaur",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 14,
-      title: "Ferrari",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 2,
-        poshmark: 2,
-        mercari: 1,
+      "id": 14,
+      "title": "Ferrari",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 2,
+        "poshmark": 2,
+        "mercari": 1
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 15,
-      title: "Lambo",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 15,
+      "title": "Lambo",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 16,
-      title: "Dacia",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 2021410,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 16,
+      "title": "Dacia",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 2021410,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
-      id: 17,
-      title: "Mouse",
-      image:
-        "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      price: 20,
-      statuses: {
-        ebay: 1,
-        poshmark: 3,
-        mercari: 6,
+      "id": 17,
+      "title": "Mouse",
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "price": 20,
+      "statuses":{
+        "ebay": 1,
+        "poshmark": 3,
+        "mercari": 6
       },
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    },
-  ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
+    }
+  ]
 }
