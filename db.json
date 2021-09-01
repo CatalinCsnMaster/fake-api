@@ -10,6 +10,12 @@
         "poshmark": 7,
         "mercari": 6
       },
+      "customer":{
+        "name": "Testing Test",
+        "city": "Chicago",
+        "state": "Chicago, I think?",
+        "country": "USA"
+      },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
     },
     {
