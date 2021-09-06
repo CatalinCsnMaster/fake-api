@@ -16,6 +16,7 @@
         "state": "Chicago, I think?",
         "country": "USA"
       },
+      "quantity":500,
       "dateSold": "12.2.2002",
       "crosslinked": "true",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
